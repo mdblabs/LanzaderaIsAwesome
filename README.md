@@ -1,4 +1,4 @@
-# 😎 Lanzadera Is Awsome
+# 😎 Lanzadera Is Awesome
 Lanzadera's Tech Club Repository
 
 A place to share:
